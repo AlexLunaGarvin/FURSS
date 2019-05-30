@@ -41,3 +41,15 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Thu May 30 10:22:13 2019
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.probuilder@4.0.5
+  com.unity.render-pipelines.high-definition@4.1.0-preview
+  com.unity.render-pipelines.lightweight@4.10.0-preview
+  com.unity.shadergraph@4.10.0-preview
+  com.unity.visualeffectgraph@4.10.0-preview
